@@ -76,7 +76,7 @@ export default function About() {
 					<div>
 						<Button variant="outline" asChild>
 							<a
-								href="https://discord.gg/yGUJWhNqzy"
+								href="https://discord.gg/ntzBZ3yYj"
 								target="_blank"
 								rel="noopener"
 							>
