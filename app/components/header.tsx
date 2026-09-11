@@ -25,7 +25,7 @@ const APP_URL = "https://app.carbon.ms";
 
 const developerLinks = [
 	{
-		href: "https://discord.gg/gxckQyanG",
+		href: "https://discord.gg/ntzBZ3yYj",
 		title: <Trans>Discord</Trans>,
 		desc: <Trans>Join our community chat</Trans>,
 		icon: (
